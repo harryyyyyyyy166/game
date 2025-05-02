@@ -1,11 +1,11 @@
 {
-  "name": "moviehidden16",
+  "name": "maths4funnn",
   "version": "2.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "CineGeek",
+      "name": "maths4funnn",
       "version": "2.0",
       "dependencies": {
         "@next/third-parties": "^14.1.0",
